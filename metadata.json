@@ -1,0 +1,9 @@
+{
+  "projectName": "Bot Project Testing",
+  "description": "A simple repository for testing the capabilities of the SWE-agent.",
+  "rules": [
+    "All new files should be created in the root directory.",
+    "Commit messages should be concise and descriptive."
+  ],
+  "mainLanguage": "text"
+}
