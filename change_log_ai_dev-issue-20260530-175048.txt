@@ -1,0 +1,3 @@
+Changes based on plan:
+**API Connection Error:** Failed to connect to NVIDIA API. Please check your network and the API endpoint (`https://integrate.api.nvidia.com/v1`).
+`Connection error.`
